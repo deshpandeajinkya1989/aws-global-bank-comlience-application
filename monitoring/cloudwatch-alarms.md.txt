@@ -1,0 +1,4 @@
+ CPU utilization alarm (>80%)
+- Disk usage monitoring
+- EC2 health status check
+- Alarm used to simulate incidents

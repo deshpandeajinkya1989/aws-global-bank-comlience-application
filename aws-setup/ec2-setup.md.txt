@@ -1,0 +1,6 @@
+- EC2 instance launched using Amazon Linux
+- Key pair used for secure SSH access
+- Security group allows:
+  - SSH (22)
+  - HTTP (80)
+- Instance monitored using CloudWatch

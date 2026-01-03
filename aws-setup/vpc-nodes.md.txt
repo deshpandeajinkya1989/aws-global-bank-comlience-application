@@ -1,0 +1,4 @@
+ Custom VPC created
+- Public subnet for EC2
+- Internet Gateway attached
+- Security groups used instead of open ports

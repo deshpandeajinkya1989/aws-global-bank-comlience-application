@@ -1,0 +1,5 @@
+df -h        # Disk usage
+free -m     # Memory usage
+top         # Process monitoring
+systemctl status <service>
+journalctl -xe

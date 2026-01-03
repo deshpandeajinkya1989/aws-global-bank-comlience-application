@@ -1,0 +1,9 @@
+1. Application not accessible
+   - Check EC2 instance status
+   - Verify service is running
+   - Check security group
+
+2. High CPU usage
+   - Identify top processes
+   - Restart service if required
+   - Escalate to L2 team

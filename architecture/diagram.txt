@@ -1,0 +1,13 @@
+Cloud Banking Application Architecture (Simplified)
+
+User
+ |
+ |--> Internet
+       |
+       |--> AWS Load Balancer
+              |
+              |--> EC2 Instance (Linux)
+                     |
+                     |--> Banking Application
+                     |
+                     |--> CloudWatch Monitoring

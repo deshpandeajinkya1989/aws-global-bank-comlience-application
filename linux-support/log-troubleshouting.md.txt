@@ -1,0 +1,4 @@
+ Checked application logs in /var/log
+- Identified errors using grep
+- Restarted services after verification
+- Escalated if issue repeated

@@ -1,15 +1,13 @@
 # aws-global-bank-comlience-application Cloud Native Banking Complience Application – IT Support & Monitoring (L1)
 
 ## Project Type
-Hands-on / Lab Project (Fresher Level)
+simple home project
 
 ## Domain
 Banking, Financial Services & Insurance (BFSI)
 
 ## Objective
 To understand how a banking application is deployed, monitored, and supported
-from an L1 IT Support perspective using AWS and Linux.
-
 ## Project Description
 This project simulates a cloud-based banking application environment.
 It focuses on infrastructure monitoring, basic troubleshooting,
